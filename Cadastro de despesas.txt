@@ -1,0 +1,29 @@
+Cadastro de despesas
+
+Despesas tem : Ano , Mês , Dia , Tipo ,
+Descrição e Valor
+
+Cadastrar Despesas
+Criar variaveis
+Criar um objeto Despesa 
+
+LOCAL STORAGE:
+conversão para JSON 
+JSON.stringify(PARAMETRO OU OBJ)
+
+JSON SERVE PARA STRINGS
+ELE ESTABELE O PROTOCOLO DE TRANSIÇÕES
+DE DADOS NO SERVIDOR
+
+JSON.stringify()
+método setItem()
+
+
+usou método for in para validar dados
+
+Lógica para usar Modal com JQuery
+para popout de erro e sucesso
+
+Desafio :
+criar apenas um modal para erro ou sucesso . O msm irá se adptar se de acordo com o resultado
+
